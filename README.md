@@ -9,7 +9,7 @@ debug commands locked under @jail/debug
 
 # Info
 For further config and feature info please see the wiki
-
+https://github.com/Kasyak1337/Cs2Jailbreak/wiki
 
 # Installation
 Download the latest release from the releases tab and copy it into the counterstrikesharp plugin folder
